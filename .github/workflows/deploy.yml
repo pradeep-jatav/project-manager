@@ -1,0 +1,18 @@
+# Project Management App
+
+This is a web-based project management application built using Next.js and Node.js with postgresql.
+
+## Features
+- User authentication
+- Task creation and assignment
+- Project tracking
+
+## Deployment
+The project is live at: [Live Demo](https://main.d3k1mkib2e0xbj.amplifyapp.com/)
+
+## Technologies Used
+- Next.js
+- React.js
+- Node.js
+- Postgresql
+- Express.js
